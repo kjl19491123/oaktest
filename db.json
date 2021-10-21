@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "title": "Chatbots",
+      "author": "Jana Bergant",
+      "rating": 9
+    },
+    {
+      "title": "Google Assistant app",
+      "author": "Jana Bergant",
+      "rating": 8
+    },
+    {
+      "title": "Blog with Jekyll",
+      "author": "Jana Bergant",
+      "rating": 8
+    }
+  ]
+}
